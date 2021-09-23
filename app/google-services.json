@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989212255433",
+    "project_id": "classy-taxi-3db4c",
+    "storage_bucket": "classy-taxi-3db4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989212255433:android:43f104185f258777c95918",
+        "android_client_info": {
+          "package_name": "com.sample.android.classytaxijava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989212255433-mtdmq4kjk67rt4ibamp9ddva70uihhdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.android.classytaxijava",
+            "certificate_hash": "35841f057a424b3b04c9f965169bbfc563ea2a5c"
+          }
+        },
+        {
+          "client_id": "989212255433-e5r4sm3bgblqg1t79dh0sd2vtro2hkfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvS18JezsNXc2EeQSnDzvnYoq8Yznqvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989212255433-e5r4sm3bgblqg1t79dh0sd2vtro2hkfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
